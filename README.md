@@ -48,3 +48,5 @@ The comparison is performed against the original reference image.
 ```
 
 The notebook contains the full implementation, experiments, plots, and evaluation results.
+
+### In case the notebook won't load on github, use this Collab: https://colab.research.google.com/drive/10WAdxgNx7v2lKvWegdBYKnBMr5rNAG-h
